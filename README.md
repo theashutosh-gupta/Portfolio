@@ -17,7 +17,7 @@ Hello! I'm an enthusiastic and committed Full-Stack Developer with proficiency i
 - **Name:** Ashutosh Gupta
 - **Location:** Kanpur, Uttar Pradesh, India
 - **Email:** gupta.ashutosh8409@gmail.com
-- **Portfolio:** ashutoshgupta.netlify.app
+- **Portfolio:** https://ashutoshgupta.netlify.app/
 - **LinkedIn:** (https://www.linkedin.com/in/ashutosh-gupta-276bb6184/)
 - **Twitter:** https://twitter.com/guptaashu_91
 
